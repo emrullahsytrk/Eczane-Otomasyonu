@@ -1,0 +1,61 @@
+C:\Users\Emrullah Soytürk\Desktop\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\bin\Debug\EBİS  GİRİŞ PANELİ.exe.config
+C:\Users\Emrullah Soytürk\Desktop\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\bin\Debug\EBİS  GİRİŞ PANELİ.exe
+C:\Users\Emrullah Soytürk\Desktop\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\bin\Debug\EBİS  GİRİŞ PANELİ.pdb
+C:\Users\Emrullah Soytürk\Desktop\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS _GİRİŞ_PANELİ.csprojAssemblyReference.cache
+C:\Users\Emrullah Soytürk\Desktop\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS__GİRİŞ_PANELİ.Properties.Resources.resources
+C:\Users\Emrullah Soytürk\Desktop\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS _GİRİŞ_PANELİ.csproj.GenerateResource.cache
+C:\Users\Emrullah Soytürk\Desktop\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS _GİRİŞ_PANELİ.csproj.CoreCompileInputs.cache
+C:\Users\Emrullah Soytürk\Desktop\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS  GİRİŞ PANELİ.exe
+C:\Users\Emrullah Soytürk\Desktop\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS  GİRİŞ PANELİ.pdb
+C:\Users\Emrullah Soytürk\Desktop\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS__GİRİŞ_PANELİ.Gelen_Ürünler_Frm.resources
+C:\Users\Emrullah Soytürk\Desktop\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS__GİRİŞ_PANELİ.Ebis_Giris_Paneli_Frm.resources
+C:\Users\Emrullah Soytürk\Desktop\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS__GİRİŞ_PANELİ.Ebis_İşlem_Paneli_Frm.resources
+C:\Users\Emrullah Soytürk\Desktop\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS__GİRİŞ_PANELİ.Medula_Frm.resources
+C:\Users\Emrullah Soytürk\Desktop\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS__GİRİŞ_PANELİ.Online_Fatura_Frm.resources
+C:\Users\Emrullah Soytürk\Desktop\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS__GİRİŞ_PANELİ.Ürün_Detay_Frm.resources
+C:\Users\Emrullah Soytürk\Desktop\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS__GİRİŞ_PANELİ.Ürün_Satis_Listesi_Frm.resources
+C:\Users\Emrullah Soytürk\Desktop\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS__GİRİŞ_PANELİ.Elektronik_Recete_Girisi_Frm.resources
+C:\Users\Emrullah Soytürk\Desktop\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS__GİRİŞ_PANELİ.Manuel_Recete_Girisi_Frm.resources
+C:\Users\Emrullah Soytürk\Desktop\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS__GİRİŞ_PANELİ.Rapor_Görüntüleme_Frm.resources
+C:\Users\Emrullah Soytürk\Desktop\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS__GİRİŞ_PANELİ.Ürün_Görüntüleme_Frm.resources
+C:\Users\Emrullah Soytürk\Desktop\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS__GİRİŞ_PANELİ.Ürün_Satıs_Paneli_Frm.resources
+C:\Users\Emrullah Soytürk\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS _GİRİŞ_PANELİ.csprojAssemblyReference.cache
+C:\Users\Emrullah Soytürk\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS__GİRİŞ_PANELİ.Ebis_Giris_Paneli_Frm.resources
+C:\Users\Emrullah Soytürk\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS__GİRİŞ_PANELİ.Ebis_İşlem_Paneli_Frm.resources
+C:\Users\Emrullah Soytürk\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS__GİRİŞ_PANELİ.Gelen_Ürünler_Frm.resources
+C:\Users\Emrullah Soytürk\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS__GİRİŞ_PANELİ.Manuel_Recete_Girisi_Frm.resources
+C:\Users\Emrullah Soytürk\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS__GİRİŞ_PANELİ.Medula_Frm.resources
+C:\Users\Emrullah Soytürk\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS__GİRİŞ_PANELİ.Online_Fatura_Frm.resources
+C:\Users\Emrullah Soytürk\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS__GİRİŞ_PANELİ.Properties.Resources.resources
+C:\Users\Emrullah Soytürk\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS__GİRİŞ_PANELİ.Rapor_Görüntüleme_Frm.resources
+C:\Users\Emrullah Soytürk\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS__GİRİŞ_PANELİ.Ürün_Görüntüleme_Frm.resources
+C:\Users\Emrullah Soytürk\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS__GİRİŞ_PANELİ.Ürün_Detay_Frm.resources
+C:\Users\Emrullah Soytürk\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS__GİRİŞ_PANELİ.Ürün_Satis_Listesi_Frm.resources
+C:\Users\Emrullah Soytürk\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS__GİRİŞ_PANELİ.Ürün_Satıs_Paneli_Frm.resources
+C:\Users\Emrullah Soytürk\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS _GİRİŞ_PANELİ.csproj.GenerateResource.cache
+C:\Users\Emrullah Soytürk\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS _GİRİŞ_PANELİ.csproj.CoreCompileInputs.cache
+C:\Users\Emrullah Soytürk\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS  GİRİŞ PANELİ.exe
+C:\Users\Emrullah Soytürk\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS  GİRİŞ PANELİ.pdb
+C:\Users\Emrullah Soytürk\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\bin\Debug\EBİS  GİRİŞ PANELİ.exe.config
+C:\Users\Emrullah Soytürk\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\bin\Debug\EBİS  GİRİŞ PANELİ.exe
+C:\Users\Emrullah Soytürk\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\bin\Debug\EBİS  GİRİŞ PANELİ.pdb
+C:\Users\Emrullah\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\bin\Debug\EBİS  GİRİŞ PANELİ.exe.config
+C:\Users\Emrullah\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\bin\Debug\EBİS  GİRİŞ PANELİ.exe
+C:\Users\Emrullah\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\bin\Debug\EBİS  GİRİŞ PANELİ.pdb
+C:\Users\Emrullah\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS _GİRİŞ_PANELİ.csprojAssemblyReference.cache
+C:\Users\Emrullah\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS__GİRİŞ_PANELİ.Ebis_Giris_Paneli_Frm.resources
+C:\Users\Emrullah\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS__GİRİŞ_PANELİ.Ebis_İşlem_Paneli_Frm.resources
+C:\Users\Emrullah\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS__GİRİŞ_PANELİ.Gelen_Ürünler_Frm.resources
+C:\Users\Emrullah\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS__GİRİŞ_PANELİ.Manuel_Recete_Girisi_Frm.resources
+C:\Users\Emrullah\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS__GİRİŞ_PANELİ.Medula_Frm.resources
+C:\Users\Emrullah\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS__GİRİŞ_PANELİ.Online_Fatura_Frm.resources
+C:\Users\Emrullah\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS__GİRİŞ_PANELİ.Properties.Resources.resources
+C:\Users\Emrullah\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS__GİRİŞ_PANELİ.Rapor_Görüntüleme_Frm.resources
+C:\Users\Emrullah\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS__GİRİŞ_PANELİ.Ürün_Görüntüleme_Frm.resources
+C:\Users\Emrullah\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS__GİRİŞ_PANELİ.Ürün_Detay_Frm.resources
+C:\Users\Emrullah\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS__GİRİŞ_PANELİ.Ürün_Satis_Listesi_Frm.resources
+C:\Users\Emrullah\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS__GİRİŞ_PANELİ.Ürün_Satıs_Paneli_Frm.resources
+C:\Users\Emrullah\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS _GİRİŞ_PANELİ.csproj.GenerateResource.cache
+C:\Users\Emrullah\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS _GİRİŞ_PANELİ.csproj.CoreCompileInputs.cache
+C:\Users\Emrullah\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS  GİRİŞ PANELİ.exe
+C:\Users\Emrullah\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\EBİS  GİRİŞ PANELİ\EBİS  GİRİŞ PANELİ\obj\Debug\EBİS  GİRİŞ PANELİ.pdb
